@@ -103,5 +103,40 @@
     "url": "https://raw.githubusercontent.com/one4studio/aline/main/015.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/one4studio/aline/main/thumbnails/thumb_015.jpg",
     "downloadable": true
+  },
+  {
+    "name": "Wallpaper 16",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/aline/main/016.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/aline/main/thumbnails/thumb_016.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 17",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/aline/main/017.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/aline/main/thumbnails/thumb_017.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 18",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/aline/main/018.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/aline/main/thumbnails/thumb_018.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 19",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/aline/main/019.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/aline/main/thumbnails/thumb_019.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 20",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/aline/main/020.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/aline/main/thumbnails/thumb_020.jpg",
+    "downloadable": true
   }
 ]
